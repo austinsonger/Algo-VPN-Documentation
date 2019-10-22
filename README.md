@@ -1,1 +1,2 @@
-# Algo-VPN-Documentation
+# Initial page
+
