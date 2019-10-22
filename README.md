@@ -1,2 +1,2 @@
-# Initial page
+# Table of Contents
 
